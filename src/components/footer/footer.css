@@ -1,0 +1,39 @@
+
+
+.main-footer {
+    background-color: gray;
+    padding: 15px;
+    color: orangered;
+}
+
+
+.col {
+    flex-basis: 25em;
+    margin: 30px;
+}
+
+.listado {
+    list-style: none;
+    padding: 5px;
+    margin: 25px;
+}
+
+.listado li{
+    margin-bottom: 10px;
+}
+
+.listado li a{
+    color: white;
+}
+
+.listado li:last-child {
+    margin-bottom: 10px;
+}
+
+
+
+.col-sm {
+    font-size: 15px;
+    color: white;
+    text-align:center;
+}
